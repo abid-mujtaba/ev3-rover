@@ -1,4 +1,4 @@
-rover-ev3
+ev3-rover
 =========
 
 Rover LeJOS project for the EV3.
